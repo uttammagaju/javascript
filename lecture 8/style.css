@@ -1,0 +1,16 @@
+div{
+    height: 200px;
+    width: 300px;
+    background-color: tomato;
+    
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
